@@ -35,7 +35,6 @@
 - **Authentication**: Role-based access control
 
 
-
 ## **Privacy & Ethics**
 
 - Data minimization and anonymity protection
@@ -43,4 +42,3 @@
 - Content moderation and risk detection
 - User control over data sharing
 
--
